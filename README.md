@@ -76,7 +76,7 @@ result = sql_db_chain.invoke("Which country's customers spent the most?")
 ## Setup
 
 ```bash
-git clone https://github.com/prasad11s/LangChain_SQLReasoning.git
+git clone https://github.com/prasad11s/text-to-sql-langchain.git
 cd LangChain_SQLReasoning
 pip install -r requirements.txt
 ```
